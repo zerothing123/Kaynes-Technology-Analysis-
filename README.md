@@ -11,6 +11,9 @@ This project analyzes the financial performance of Kaynes Technology using Power
 * EBITDA and PAT show consistent improvement
 * EPS growth is volatile but overall upward
 
+## Dashboard preview 
+![Dashboard](Sc2.png)
+
 ## Tools Used
 
 * Power BI (Dashboard & Visualization)
